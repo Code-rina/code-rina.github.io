@@ -3324,3 +3324,7 @@ input, select, textarea {
 		flex-direction: row;
 		justify-content: center;
 	}
+	.resume {
+		font-size: 1.25em;
+		font-weight: 700;
+	}
