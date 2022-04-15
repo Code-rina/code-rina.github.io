@@ -104,6 +104,9 @@ input, select, textarea {
 		font-weight: 400;
 		line-height: 1.75em;
 	}
+	.languages {
+		width: 100%;
+	}
 
 	a {
 		-moz-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
