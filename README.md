@@ -1,8 +1,8 @@
-#About Me
-*🖥 Full-stack software developer
-*🎓 graduated from App Academy full time 24 week program
-*💼 I’m originally from the Czech Republic with a Hospitality Sales and Management background. 
-*🌐 Check out my personal website: https://katerina-kreibich.me/
+# About Me
+* 🖥 Full-stack software developer
+* 🎓 Graduated from App Academy - Full Stack Web Development
+* 💼 I’m originally from the Czech Republic with a Hospitality Sales and Management background. 
+* 🌐 Check out my personal website: https://katerina-kreibich.me/
 
 <div>
             <h1>Languages and Tools </h1>
@@ -27,4 +27,6 @@
 
 </div>
 
-*📫 How to reach me: katerina.kreibich@gmail.com
+## 📫 How to reach me: 
+* Email: katerina.kreibich@gmail.com
+* LinkedIn: https://www.linkedin.com/in/katerina-kreibich-7a79a251/
